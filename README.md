@@ -7,8 +7,9 @@ This application evaluates resumes against job descriptions, detects skill gaps,
 
 ## 🚀 Live Demo
 
-🔗 Live Application: https://yourname-ai-resume-reviewer.streamlit.app  
-💻 GitHub Repository: https://github.com/yourusername/ai-resume-reviewer](https://github.com/tabassumunnisa19/Resume-Reviewer-and-Skill-Gap-Analyzer  
+🔗 Live Application: https://resume-reviewer-and-skill-gap-analyzer.streamlit.app
+
+💻 GitHub Repository: https://github.com/tabassumunnisa19/Resume-Reviewer-and-Skill-Gap-Analyzer  
 
 
 
@@ -96,6 +97,7 @@ Streamlit Dashboard Output
 ### 1️⃣ Clone the Repository
 
 git clone https://github.com/tabassumunnisa19/Resume-Reviewer-and-Skill-Gap-Analyzer.git
+
 cd Resume-Reviewer-and-Skill-Gap-Analyzer
 
 
