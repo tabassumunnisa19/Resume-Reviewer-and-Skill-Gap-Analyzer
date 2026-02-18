@@ -7,7 +7,7 @@ This application evaluates resumes against job descriptions, detects skill gaps,
 
 ## 🚀 Live Demo
 
-🔗 Live Application: https://resume-reviewer-and-skill-gap-analyzer.streamlit.app
+🔗 Live Application: [https://resume-reviewer-and-skill-gap-analyzer.streamlit.app](https://resume-reviewer-and-skill-gap-analyzer-5hlugzpvnpjtwtbxz2mvny.streamlit.app/)
 
 💻 GitHub Repository: https://github.com/tabassumunnisa19/Resume-Reviewer-and-Skill-Gap-Analyzer  
 
