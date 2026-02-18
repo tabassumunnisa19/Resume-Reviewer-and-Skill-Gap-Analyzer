@@ -14,7 +14,8 @@ st.set_page_config(
 
 # ---------------- Load and resize image ----------------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-IMAGE_PATH = os.path.join(BASE_DIR, "image.png")
+IMAGE_PATH = os.path.join(BASE_DIR, "assets", "image.png")
+
 
 img = Image.open(IMAGE_PATH)
 img = img.resize((500, 400))
